@@ -1,0 +1,9 @@
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\bin\Debug\UnitTestBinarySearch.dll
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\bin\Debug\UnitTestBinarySearch.pdb
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\obj\Debug\UnitTestBinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\obj\Debug\UnitTestBinarySearch.dll
+C:\Users\Den4ik\Documents\Visual Studio 2015\Projects\BinarySearch\UnitTestBinarySearch\obj\Debug\UnitTestBinarySearch.pdb

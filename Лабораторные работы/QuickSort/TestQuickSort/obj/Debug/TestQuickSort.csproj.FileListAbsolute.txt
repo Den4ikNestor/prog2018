@@ -1,0 +1,9 @@
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\bin\Debug\TestQuickSort.dll
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\bin\Debug\TestQuickSort.pdb
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\bin\Debug\QuickSort.exe
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\bin\Debug\QuickSort.pdb
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\obj\Debug\TestQuickSort.csprojResolveAssemblyReference.cache
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\obj\Debug\TestQuickSort.dll
+c:\users\den4ik\documents\visual studio 2015\Projects\QuickSort\TestQuickSort\obj\Debug\TestQuickSort.pdb
