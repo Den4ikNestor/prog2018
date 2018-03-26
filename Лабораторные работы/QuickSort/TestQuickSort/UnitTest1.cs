@@ -52,7 +52,7 @@ namespace TestQuickSort
             Algorithm algo = new Algorithm();
             var array = algo.GenerateArray(0);
             array = algo.QuickSort(array);
-            if (array != null) throw new Exception();
+            if (array.Length != 0) throw new Exception();
         }
 
         [TestMethod]

@@ -38,7 +38,7 @@ namespace Program
 
         public int[] QuickSort(int[] array)
         {
-            if (array.Length <= 0) return null;
+            if (array.Length <= 0) return array;
             return QuickSort(array, 0, array.Length - 1);
         }
 
