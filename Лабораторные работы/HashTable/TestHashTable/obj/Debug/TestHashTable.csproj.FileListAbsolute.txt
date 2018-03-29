@@ -1,0 +1,9 @@
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\obj\Debug\TestHashTable.csprojResolveAssemblyReference.cache
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\bin\Debug\TestHashTable.dll
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\bin\Debug\TestHashTable.pdb
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\bin\Debug\HashTable.exe
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\bin\Debug\HashTable.pdb
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\obj\Debug\TestHashTable.dll
+c:\users\den4ik\documents\visual studio 2015\Projects\HashTable\TestHashTable\obj\Debug\TestHashTable.pdb
